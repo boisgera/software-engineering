@@ -1,0 +1,44 @@
+name: build
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        shell: bash -l {0} 
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Activate Conda Environment
+        uses: conda-incubator/setup-miniconda@v2
+        with:
+          activate-environment: software-engineering
+          environment-file: environment.yml
+
+      - name: Install Node
+        uses: actions/setup-node@v2
+        with:
+          node-version: '12'
+
+      - name: Install Eul-Style
+        run: npm install -g eul-style
+
+      - name: HTML build
+        run: ./build.py
+
+      - name: Deployment Setup
+        run: rm -rf .gitignore
+
+      - name: Deployment
+        uses: JamesIves/github-pages-deploy-action@3.7.1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: gh-pages
+          FOLDER: "."
+          SINGLE_COMMIT: true
+          PRESERVE: true
