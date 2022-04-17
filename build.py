@@ -8,7 +8,7 @@ import pandoc
 import euldoc
 import plumbum
 
-md_file = "Software Engineering.md"
+md_file = "index.md"
 
 options = [
     # Standalone
