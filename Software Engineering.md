@@ -24,18 +24,18 @@ author:
   .grid > * > *:not(:last-child) { /* item*/
     margin: 0 1em 0 0;
   }
-#main-topics ul {
+ul {
   padding: 0;
 }  
 </style>
 
+Topics
+================================================================================
 
 <div style="display: flex; flex-wrap: nowrap;">
 <img src="images/gauge.svg" style="flex-basis:40%;object-fit:contain;margin:0 1em;">
 <div style="flex-basis:40%;">
 
-**Main topics:**
-  
   - Automotive Software
 
   - User Interfaces & SVG
@@ -48,7 +48,6 @@ author:
 
 Slides & Posters
 ================================================================================
-
 
 <div class="grid">
 <div>
