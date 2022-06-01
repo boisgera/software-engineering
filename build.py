@@ -4,8 +4,8 @@
 import pathlib
 
 # Third-Party Libraries
-import pandoc
 import euldoc
+import pandoc
 import plumbum
 
 md_file = "index.md"

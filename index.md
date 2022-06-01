@@ -2,7 +2,7 @@
 title: Software Engineering
 author:  
 -  "[Sébastien Boisgérault](mailto:Sebastien.Boisgerault@minesparis.psl.eu),
-   MINES Paris, PSL University"
+   Mines Paris, PSL University"
 ---
 
 <style> 
