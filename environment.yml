@@ -1,0 +1,11 @@
+name: software-engineering
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - pip
+  - setuptools
+  - pandoc=2.17.1.1
+  - pip:
+    - eul-doc==2.0.1
+    - pandoc==2.1

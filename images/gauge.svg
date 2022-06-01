@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:hmi="http://www.edona.fr/hmi"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="249.99985"
+   version="1.0"
+   width="250.00096"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="gauge.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="698"
+     inkscape:window-height="480"
+     id="namedview55"
+     showgrid="false"
+     inkscape:zoom="0.94400058"
+     inkscape:cx="125.00048"
+     inkscape:cy="124.99992"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Sébastien Boisgérault, Mines ParisTech</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <linearGradient
+       id="linearGradient3189">
+      <stop
+         offset="0"
+         stop-color="#ff0e00"
+         stop-opacity="1"
+         id="stop9" />
+      <stop
+         offset="1"
+         stop-color="#c70e03"
+         stop-opacity="1"
+         id="stop11" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3301">
+      <stop
+         offset="0"
+         stop-color="#000000"
+         stop-opacity="1"
+         id="stop14" />
+      <stop
+         offset="1"
+         stop-color="#828282"
+         stop-opacity="1"
+         id="stop16" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3293">
+      <stop
+         offset="0"
+         stop-color="#484848"
+         stop-opacity="1"
+         id="stop19" />
+      <stop
+         offset="1"
+         stop-color="#dadada"
+         stop-opacity="1"
+         id="stop21" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3505">
+      <stop
+         offset="0"
+         stop-color="#d5d5d5"
+         stop-opacity="1"
+         id="stop24" />
+      <stop
+         offset="1"
+         stop-color="#333333"
+         stop-opacity="1"
+         id="stop26" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3397">
+      <stop
+         offset="0"
+         stop-color="#2b2b2b"
+         stop-opacity="1"
+         id="stop29" />
+      <stop
+         offset="1"
+         stop-color="#f0f0f0"
+         stop-opacity="1"
+         id="stop31" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient33832">
+      <stop
+         offset="0"
+         stop-color="#4b4b4b"
+         stop-opacity="1"
+         id="stop34" />
+      <stop
+         offset="1"
+         stop-color="#232323"
+         stop-opacity="1"
+         id="stop36" />
+    </linearGradient>
+    <radialGradient
+       cx="-173.4731"
+       cy="74.041145"
+       fx="-173.4731"
+       fy="74.041145"
+       gradientTransform="matrix(-5.4012603e-7,-0.9918462,0.2459262,-1.1556596e-7,-18.317595,-153.7998)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient3195"
+       r="56.51255"
+       xlink:href="#linearGradient3189" />
+    <linearGradient
+       gradientTransform="matrix(5.4697459,0,0,5.4697459,-86.363015,-268.46748)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient2512"
+       x1="38.513069"
+       x2="38.513069"
+       y1="73.854881"
+       y2="70.015572"
+       xlink:href="#linearGradient3293" />
+    <linearGradient
+       gradientTransform="matrix(5.4697459,0,0,5.4697459,-86.363015,-268.46748)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient2514"
+       x1="38.513069"
+       x2="38.513069"
+       y1="73.854881"
+       y2="70.015572"
+       xlink:href="#linearGradient3301" />
+    <radialGradient
+       cx="25.436222"
+       cy="22.708612"
+       fx="25.436222"
+       fy="22.708612"
+       gradientTransform="matrix(5.5045405,0,0,5.5045158,-15.014253,1.6667e-5)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient2517"
+       r="17.036358"
+       xlink:href="#linearGradient33832" />
+    <linearGradient
+       gradientTransform="matrix(1.9154469,0,0,1.9154383,182.95696,-248.83595)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient2520"
+       x1="-30.257421"
+       x2="-30.257421"
+       y1="260.42908"
+       y2="128.50883"
+       xlink:href="#linearGradient3397" />
+    <linearGradient
+       gradientTransform="matrix(1.9154469,0,0,1.9154383,182.95696,-248.83595)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient2522"
+       x1="-49.217087"
+       x2="-47.219799"
+       y1="152.26221"
+       y2="260.42908"
+       xlink:href="#linearGradient3505" />
+  </defs>
+  <g
+     id="g44">
+    <hmi:component>
+      <hmi:inputs>
+        <hmi:input
+           id="urn:uuid:d9f340f8-b4f0-11de-8019-00248c9e4c87"
+           name="angle"
+           type="number" />
+      </hmi:inputs>
+      <hmi:outputs />
+      <hmi:links>
+        <hmi:link
+           from="urn:uuid:d9f340f8-b4f0-11de-8019-00248c9e4c87"
+           to="urn:uuid:d9f340f9-b4f0-11de-8019-00248c9e4c87" />
+      </hmi:links>
+    </hmi:component>
+    <g
+       id="g46">
+      <path
+         d="M 247.58723,124.99993 C 247.58723,192.70241 192.70327,247.58612 125.00048,247.58612 C 57.29769,247.58612 2.4137354,192.70241 2.4137354,124.99993 C 2.4137354,57.297441 57.29769,2.4137356 125.00048,2.4137356 C 192.70327,2.4137356 247.58723,57.297441 247.58723,124.99993 L 247.58723,124.99993 z"
+         fill="url(#linearGradient2520)"
+         fill-opacity="1"
+         stroke="url(#linearGradient2522)"
+         stroke-dasharray="none"
+         stroke-dashoffset="42.67999916"
+         stroke-linecap="round"
+         stroke-linejoin="bevel"
+         stroke-miterlimit="4"
+         stroke-opacity="1"
+         stroke-width="4.82747126"
+         id="path48" />
+      <path
+         d="M 216.36427,124.99993 C 216.36427,175.45854 175.4593,216.36333 125.00046,216.36333 C 74.541621,216.36333 33.636651,175.45854 33.636651,124.99993 C 33.636651,74.541316 74.541621,33.636533 125.00046,33.636533 C 175.4593,33.636533 216.36427,74.541316 216.36427,124.99993 L 216.36427,124.99993 z"
+         fill="url(#radialGradient2517)"
+         fill-opacity="1"
+         stroke="#7f7f7f"
+         stroke-dasharray="none"
+         stroke-dashoffset="42.67999916"
+         stroke-linecap="round"
+         stroke-linejoin="bevel"
+         stroke-miterlimit="4"
+         stroke-opacity="1"
+         stroke-width="4.82701063"
+         id="path50" />
+    </g>
+    <path
+       d="M 17.232295,29.562958 C 5.4162254,41.155678 -4.6184346,41.139278 -17.325175,29.508888 C -17.325175,29.508888 -6.8562546,-76.005356 0.11869537,-76.005356 C 7.3177854,-76.005356 17.232295,29.562958 17.232295,29.562958 z"
+       fill="url(#radialGradient3195)"
+       fill-opacity="1"
+       id="needle-path"
+       stroke="none"
+       stroke-dasharray="none"
+       stroke-miterlimit="4"
+       stroke-opacity="1"
+       stroke-width="0.30000001"
+       transform="translate(125,125) rotate(30)">
+      <hmi:input
+         id="urn:uuid:d9f340f9-b4f0-11de-8019-00248c9e4c87"
+         index="2"
+         nature="attribute"
+         target="transform"
+         type="number" />
+    </path>
+    <path
+       d="M 134.79371,124.99993 C 134.79371,130.79893 130.09268,135.49995 124.29369,135.49995 C 118.49469,135.49995 113.79366,130.79893 113.79366,124.99993 C 113.79366,119.20092 118.49469,114.4999 124.29369,114.4999 C 130.09268,114.4999 134.79371,119.20092 134.79371,124.99993 z"
+       fill="url(#linearGradient2512)"
+       fill-opacity="1"
+       stroke="url(#linearGradient2514)"
+       stroke-dasharray="none"
+       stroke-miterlimit="4"
+       stroke-opacity="1"
+       stroke-width="1.64092386"
+       id="path53" />
+  </g>
+</svg>
